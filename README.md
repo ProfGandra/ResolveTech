@@ -1,2 +1,7 @@
 # ResolveTech
-Já pensou em fazer parte de um escritório de suporte de TI? Esse jogo simula diversos atendimentos, dos mais variados tipos.
+
+**ResolveTech — Um jogo de Suporte Técnico de TI**
+
+Build web educacional para execução via navegador.
+
+© 2026 DGandra. Todos os direitos reservados.
