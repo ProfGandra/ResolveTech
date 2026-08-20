@@ -6,4 +6,4 @@ Build web educacional para execução via navegador.
 
 © 2026 DGandra. Todos os direitos reservados.
 
-Build: v2.9.6
+Build: v2.9.7

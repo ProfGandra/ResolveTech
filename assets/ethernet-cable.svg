@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
+  <rect width="320" height="180" rx="18" fill="#07111f"/>
+  <path d="M58 108 C105 38 205 142 263 72" fill="none" stroke="#38bdf8" stroke-width="12" stroke-linecap="round"/>
+  <g transform="translate(32 87)"><rect width="42" height="30" rx="5" fill="#dbeafe"/><rect x="27" y="6" width="23" height="18" rx="3" fill="#94a3b8"/><path d="M31 10h3v10h-3zm5 0h3v10h-3zm5 0h3v10h-3z" fill="#fbbf24"/></g>
+  <g transform="translate(249 49) rotate(-17 25 15)"><rect width="42" height="30" rx="5" fill="#dbeafe"/><rect x="-8" y="6" width="23" height="18" rx="3" fill="#94a3b8"/><path d="M3 10h3v10H3zm5 0h3v10H8zm5 0h3v10h-3z" fill="#fbbf24"/></g>
+  <text x="160" y="162" text-anchor="middle" font-family="Arial" font-size="18" fill="#e2e8f0">Cabo Ethernet RJ45</text>
+</svg>
